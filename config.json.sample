@@ -1,0 +1,4 @@
+{
+    "connectionString": "path/to/db",
+    "port": 3000
+}
